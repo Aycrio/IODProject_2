@@ -1,6 +1,6 @@
 # IOD_project_2
 
-#[Exploring Greenhouse Gas Emissions: Patterns, Trends & Modelling] (https://github.com/Aycrio/IODProject_2/tree/main)
+# [Exploring Greenhouse Gas Emissions: Patterns, Trends & Modelling] (https://github.com/Aycrio/IODProject_2/tree/main)
 
 This project delves into exploring greenhouse gas emission (GHG) trends and patterns from 1990 to 2020. 
 
